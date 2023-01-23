@@ -5,6 +5,6 @@
     <h2>It's working on Tomcat시발 server(9.0.65)</h2>
     <h1>${msg}</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
-    <h3>Version: 231.0</h3>
+    <h3>Version: 1234</h3>
 </body>
 </html>
